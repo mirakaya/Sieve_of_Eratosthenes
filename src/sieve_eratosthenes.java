@@ -59,7 +59,7 @@ public class sieve_eratosthenes {
 
     public static void main(String[] args) {
 
-        int max = 500;
+        int max = 10000;
 
         LinkedList results = sieveOfEratosthenes_v2(max);
 
