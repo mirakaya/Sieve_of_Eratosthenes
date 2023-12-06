@@ -1,41 +1,13 @@
 package src;
 
-import java.util.LinkedList;
-import java.util.Properties;
+import java.util.TreeSet;
 
 public class sieve_eratosthenes {
 
-    private static LinkedList sieve_eratosthenes(int max_val) {
-
-        LinkedList <Integer> aux = new LinkedList();
-
-        for (int i = 2; i < max_val; i++){
-
-            aux.add(i);
-
-        }
+    private static TreeSet<Integer> sieveOfEratosthenes (int n) {
 
 
-        for (int i = 0; i < aux.size(); i++){
-
-            for (int curr_iteration = 2; aux.get(i) * curr_iteration <= max_val; curr_iteration ++){
-
-                if (aux.contains(aux.get(i) * curr_iteration) ){
-                    aux.remove(Integer.valueOf(i * curr_iteration));
-                }
-            }
-
-        }
-
-        return aux;
-
-    }
-
-
-    private static LinkedList sieveOfEratosthenes_v2 (int n) {
-
-
-        LinkedList<Integer> aux = new LinkedList();
+        TreeSet<Integer> aux = new TreeSet<>();
 
         //Create a list of consecutive integers from 2 through n: (2, 3, 4, ..., n).
         for (int i = 2; i < n; i++) {
@@ -57,18 +29,20 @@ public class sieve_eratosthenes {
         return aux;
     }
 
+
     public static void main(String[] args) {
 
-        int max = 500;
+        int max = 1000000;
 
-        LinkedList results = sieveOfEratosthenes_v2(max);
+        //long init_time = System.currentTimeMillis();
 
-        System.out.println(results);
+        TreeSet results = sieveOfEratosthenes(max);
+        System.out.println(results.size());
 
+        //long end_time = System.currentTimeMillis();
+        //System.out.println("Time v2 " + (end_time - init_time));
 
     }
-
-
 
 }
 
