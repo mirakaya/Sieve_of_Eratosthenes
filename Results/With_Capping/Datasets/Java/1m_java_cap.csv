@@ -1,0 +1,11 @@
+Program, Package , Core(s) , GPU , DRAM? , Time (ms) , Temperature , Memory 
+sieve_eratosthenes.class , 0.027771 , 0.015808 , 0.001587 , 0.000000 , 6 , 44.0 , 0 
+sieve_eratosthenes.class , 0.023254 , 0.021362 , 0.000000 , 0.000000 , 4 , 44.0 , 0 
+sieve_eratosthenes.class , 0.022766 , 0.021423 , 0.000000 , 0.000000 , 3 , 44.0 , 0 
+sieve_eratosthenes.class , 0.028015 , 0.021545 , 0.000488 , 0.000000 , 3 , 44.0 , 0 
+sieve_eratosthenes.class , 0.017700 , 0.015320 , 0.000000 , 0.000000 , 2 , 44.0 , 0 
+sieve_eratosthenes.class , 0.018066 , 0.014954 , 0.000488 , 0.000000 , 3 , 44.0 , 0 
+sieve_eratosthenes.class , 0.028442 , 0.024048 , 0.001404 , 0.000000 , 4 , 44.0 , 0 
+sieve_eratosthenes.class , 0.033020 , 0.029053 , 0.003235 , 0.000000 , 4 , 44.0 , 0 
+sieve_eratosthenes.class , 0.030579 , 0.026978 , 0.000000 , 0.000000 , 4 , 44.0 , 0 
+sieve_eratosthenes.class , 0.048706 , 0.046082 , 0.000488 , 0.000000 , 3 , 44.0 , 0 

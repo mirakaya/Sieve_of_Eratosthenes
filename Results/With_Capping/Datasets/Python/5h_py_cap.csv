@@ -1,0 +1,11 @@
+Program, Package , Core(s) , GPU , DRAM? , Time (ms) , Temperature , Memory 
+sieve_of_eratosthenes.py , 0.050537 , 0.030334 , 0.002502 , 0.000000 , 12 , 45.0 , 0 
+sieve_of_eratosthenes.py , 0.026978 , 0.022644 , 0.002380 , 0.000000 , 4 , 45.0 , 0 
+sieve_of_eratosthenes.py , 0.018555 , 0.020142 , 0.000000 , 0.000000 , 2 , 45.0 , 0 
+sieve_of_eratosthenes.py , 0.022156 , 0.024414 , 0.000000 , 0.000000 , 2 , 45.0 , 0 
+sieve_of_eratosthenes.py , 0.038696 , 0.033142 , 0.000000 , 0.000000 , 2 , 45.0 , 0 
+sieve_of_eratosthenes.py , 0.035950 , 0.027527 , 0.000000 , 0.000000 , 2 , 45.0 , 0 
+sieve_of_eratosthenes.py , 0.025879 , 0.030945 , 0.000000 , 0.000000 , 2 , 45.0 , 0 
+sieve_of_eratosthenes.py , 0.054871 , 0.050720 , 0.000427 , 0.000000 , 4 , 45.0 , 0 
+sieve_of_eratosthenes.py , 0.041260 , 0.035645 , 0.000244 , 0.000000 , 2 , 45.0 , 0 
+sieve_of_eratosthenes.py , 0.040649 , 0.033325 , 0.000916 , 0.000000 , 2 , 45.0 , 0 

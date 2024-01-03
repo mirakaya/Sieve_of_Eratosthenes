@@ -1,0 +1,11 @@
+Program, Package , Core(s) , GPU , DRAM? , Time (msec) 
+sieve_of_eratosthenes.py ,68.207825,62.224426,0.034546,0,6199520
+sieve_of_eratosthenes.py ,67.562256,61.675964,0.030212,0,6207660
+sieve_of_eratosthenes.py ,67.713684,61.698303,0.028625,0,6349780
+sieve_of_eratosthenes.py ,70.613159,64.428833,0.027039,0,6437140
+sieve_of_eratosthenes.py ,67.580688,61.756653,0.030151,0,6113510
+sieve_of_eratosthenes.py ,67.875732,62.045288,0.032104,0,6063300
+sieve_of_eratosthenes.py ,69.21936,63.230835,0.025024,0,6183470
+sieve_of_eratosthenes.py ,67.677185,61.810974,0.027283,0,6081610
+sieve_of_eratosthenes.py ,67.468506,61.612,0.007996,0,6126710
+sieve_of_eratosthenes.py ,67.509033,61.632568,0.005432,0,6085520
