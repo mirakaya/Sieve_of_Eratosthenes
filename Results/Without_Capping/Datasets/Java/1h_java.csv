@@ -1,11 +1,11 @@
 Program, Package , Core(s) , GPU , DRAM? , Time (msec) 
-sieve_eratosthenes ,1.979553,1.717773,0.005188,0,257032
-sieve_eratosthenes ,2.226013,2.029968,0,0,189794
-sieve_eratosthenes ,2.265747,2.005371,0.003235,0,235350
-sieve_eratosthenes ,2.129883,1.872803,0,0,244416
-sieve_eratosthenes ,2.16748,1.937561,0,0,214124
-sieve_eratosthenes ,2.18158,1.895569,0.002686,0,276139
-sieve_eratosthenes ,1.988403,1.792908,0,0,185295
-sieve_eratosthenes ,1.965881,1.733154,0.00238,0,220003
-sieve_eratosthenes ,2.075256,1.811646,0,0,256104
-sieve_eratosthenes ,2.254456,2.05011,0,0,191218
+sieve_eratosthenes ,1.979553,1.717773,0.005188,0,257.032
+sieve_eratosthenes ,2.226013,2.029968,0,0,189.794
+sieve_eratosthenes ,2.265747,2.005371,0.003235,0,235.35
+sieve_eratosthenes ,2.129883,1.872803,0,0,244.416
+sieve_eratosthenes ,2.16748,1.937561,0,0,214.124
+sieve_eratosthenes ,2.18158,1.895569,0.002686,0,276.139
+sieve_eratosthenes ,1.988403,1.792908,0,0,185.295
+sieve_eratosthenes ,1.965881,1.733154,0.00238,0,220.003
+sieve_eratosthenes ,2.075256,1.811646,0,0,256.104
+sieve_eratosthenes ,2.254456,2.05011,0,0,191.218

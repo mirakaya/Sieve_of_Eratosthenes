@@ -1,11 +1,11 @@
 Program, Package , Core(s) , GPU , DRAM? , Time (msec) 
-sieve_of_eratosthenes.py ,13.204224,12.049927,0.010803,0,1212730
-sieve_of_eratosthenes.py ,12.95166,11.834167,0.003845,0,1175940
-sieve_of_eratosthenes.py ,14.328979,13.108704,0.005981,0,1222190
-sieve_of_eratosthenes.py ,13.502441,12.366089,0.003723,0,1167560
-sieve_of_eratosthenes.py ,13.14801,11.974121,0.005188,0,1182890
-sieve_of_eratosthenes.py ,12.850525,11.728943,0.00415,0,1168090
-sieve_of_eratosthenes.py ,13.099365,11.961548,0.008118,0,1199430
-sieve_of_eratosthenes.py ,13.472351,12.302002,0.005066,0,1220320
-sieve_of_eratosthenes.py ,13.484131,12.296875,0.020752,0,1225530
-sieve_of_eratosthenes.py ,15.818787,14.038879,0.323792,0,1302520
+sieve_of_eratosthenes.py ,13.204224,12.049927,0.010803,0,1212.73
+sieve_of_eratosthenes.py ,12.95166,11.834167,0.003845,0,1175.94
+sieve_of_eratosthenes.py ,14.328979,13.108704,0.005981,0,1222.19
+sieve_of_eratosthenes.py ,13.502441,12.366089,0.003723,0,1167.56
+sieve_of_eratosthenes.py ,13.14801,11.974121,0.005188,0,1182.89
+sieve_of_eratosthenes.py ,12.850525,11.728943,0.00415,0,1168.09
+sieve_of_eratosthenes.py ,13.099365,11.961548,0.008118,0,1199.43
+sieve_of_eratosthenes.py ,13.472351,12.302002,0.005066,0,1220.32
+sieve_of_eratosthenes.py ,13.484131,12.296875,0.020752,0,1225.53
+sieve_of_eratosthenes.py ,15.818787,14.038879,0.323792,0,1302.52
