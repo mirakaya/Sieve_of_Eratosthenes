@@ -34,7 +34,7 @@ import sys
 
 
 
-def segment_process(segment_start, segment_end, is_prime, lock) -> None:
+def segment_it(segment_start, segment_end, is_prime, lock) -> None:
     for i in range(2, int(sqrt(segment_end)) + 1):
         if is_prime[i]:
             for j in range(max(i*i, (segment_start // i) * i), segment_end + 1, i):
@@ -54,7 +54,7 @@ def sieve_of_eratosthenes(limit, num_segments=4)  -> None:
     
     processes = []
     for (start, end) in segments:
-        process = multiprocessing.Process(target=segment_process, args=(start, end, is_prime, lock))
+        process = multiprocessing.Process(target=segment_it, args=(start, end, is_prime, lock))
         processes.append(process)
         process.start()
 
